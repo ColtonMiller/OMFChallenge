@@ -1,0 +1,6 @@
+E:\Documents\GitHub\OMFChallenge\OMFChallenge\bin\Debug\OMFChallenge.exe.config
+E:\Documents\GitHub\OMFChallenge\OMFChallenge\obj\Debug\OMFChallenge.csprojResolveAssemblyReference.cache
+E:\Documents\GitHub\OMFChallenge\OMFChallenge\bin\Debug\OMFChallenge.exe
+E:\Documents\GitHub\OMFChallenge\OMFChallenge\bin\Debug\OMFChallenge.pdb
+E:\Documents\GitHub\OMFChallenge\OMFChallenge\obj\Debug\OMFChallenge.exe
+E:\Documents\GitHub\OMFChallenge\OMFChallenge\obj\Debug\OMFChallenge.pdb
